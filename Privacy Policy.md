@@ -1,8 +1,11 @@
 隐私政策 / Privacy Policy
 
 中文
+
 隐私政策
+
 最后更新：2026年6月2日
+
 本应用尊重您的隐私。
 信息收集
 本应用不收集、不存储、不传输任何用户个人信息。无需注册账号或登录。
@@ -28,7 +31,9 @@ English
 Privacy Policy
 
 Last updated: June 2, 2026
+
 The App respects your privacy.
+
 Information We Collect
 The App does not collect, store, or transmit any personal information. No account registration or sign-in is required.
 Third-Party Data
