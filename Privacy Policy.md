@@ -26,6 +26,7 @@ ExchangeRate-API (open.er-api.com) — 汇率备用
 
 English
 Privacy Policy
+
 Last updated: June 2, 2026
 The App respects your privacy.
 Information We Collect
