@@ -1,37 +1,93 @@
-中文
+# Privacy Policy
+
+## 中文
+
+**隐私政策**
+
 最后更新：2026年6月2日
 
 Gold Calculator（「本应用」）尊重您的隐私。
-信息收集
-本应用不收集、不存储、不传输任何用户个人信息。无需注册账号或登录。
-第三方数据
-Minted Metal (mintedmetal.com) — LBMA 定盘价
-Free Gold API (freegoldapi.com) — COMEX / 历史参考
-Frankfurter (frankfurter.dev) — 汇率
-ExchangeRate-API (open.er-api.com) — 汇率备用
-应天 API（可选）— 国内/金店参考
-本地存储
-用户偏好、可选 API 密钥、金价历史缓存仅保存在设备本地。
-分析与追踪
-不使用任何第三方分析、广告或追踪 SDK。
-儿童隐私
-不面向 13 岁以下儿童，不故意收集儿童信息。
-联系我们
-请通过 App Store 开发者联系方式沟通。
 
-English
+**信息收集**
+
+本应用不收集、不存储、不传输任何用户个人信息。无需注册账号或登录。
+
+**第三方数据**
+
+本应用从以下第三方 API 获取公开金价与汇率数据：
+
+- Minted Metal (mintedmetal.com) — LBMA 定盘价
+- Free Gold API (freegoldapi.com) — COMEX / 历史参考
+- Frankfurter (frankfurter.dev) — 汇率
+- ExchangeRate-API (open.er-api.com) — 汇率备用
+- 应天 API（可选，由用户在设置中自行配置密钥）— 国内/金店参考
+
+若您在设置中启用 Tier B 并申请应天 API 密钥，注册行为发生在应天 API 第三方网站，本应用不介入该过程。
+
+**本地存储**
+
+以下数据仅保存在您的设备本地：
+
+- 用户偏好（语言、外观、货币、单位、数据源、刷新间隔）
+- 可选的应天 API 密钥
+- 金价历史缓存（用于图表展示）
+
+**分析与追踪**
+
+本应用不使用任何第三方分析 SDK、广告 SDK 或追踪工具。
+
+**儿童隐私**
+
+本应用不面向 13 岁以下儿童，也不故意收集儿童信息。
+
+**联系我们**
+
+如有隐私相关问题，请通过 App Store 开发者联系方式与我们沟通。
+
+本政策可能不时更新，更新后将在应用内及本页面展示。
+
+## English
+
+**Privacy Policy**
+
 Last updated: June 2, 2026
 
 Gold Calculator ("the App") respects your privacy.
-Information We Collect
-No personal data is collected, stored, or transmitted. No account required.
-Third-Party Data
-Public gold and FX data from Minted Metal, Free Gold API, Frankfurter, ExchangeRate-API, and optional YingTian API.
-Local Storage
-Preferences, optional API keys, and price cache stay on your device only.
-Analytics & Tracking
-No analytics, ads, or tracking SDKs.
-Children's Privacy
-Not directed at children under 13.
-Contact
-Via App Store developer contact.
+
+**Information We Collect**
+
+The App does not collect, store, or transmit any personal information. No account registration or sign-in is required.
+
+**Third-Party Data**
+
+The App fetches public gold price and exchange rate data from:
+
+- Minted Metal (mintedmetal.com) — LBMA fix prices
+- Free Gold API (freegoldapi.com) — COMEX / historical reference
+- Frankfurter (frankfurter.dev) — exchange rates
+- ExchangeRate-API (open.er-api.com) — exchange rate fallback
+- YingTian API (optional; user-configured key in Settings) — China / retail reference
+
+If you enable Tier B and apply for a YingTian API key, registration occurs on the third-party YingTian website; the App is not involved in that process.
+
+**Local Storage**
+
+The following data is stored on your device only:
+
+- Preferences (language, appearance, currency, units, data source, refresh interval)
+- Optional YingTian API key
+- Cached gold price history (for charts)
+
+**Analytics & Tracking**
+
+The App does not use third-party analytics SDKs, advertising SDKs, or tracking tools.
+
+**Children's Privacy**
+
+The App is not directed at children under 13 and does not knowingly collect information from children.
+
+**Contact Us**
+
+For privacy questions, contact us via the developer contact listed on the App Store.
+
+This policy may be updated from time to time. Updates will be shown in the App and on this page.
